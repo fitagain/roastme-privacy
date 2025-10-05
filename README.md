@@ -11,26 +11,30 @@ We prioritize your privacy and keep data collection to a minimum. The app collec
 
 Uploaded Photos: The photos you upload are sent to external infrastructure to generate AI-powered roast responses. These are processed temporarily and not stored.
 Basic Usage Analytics: We collect anonymized data to improve app performance and user experience.
+
 3.
 How We Use Information
 Uploaded Photos: Your images are processed in real time using external services to create personalized roast responses. The data is discarded immediately after processing.
 Usage Analytics: Aggregated and anonymized data helps us enhance app features and overall functionality.
-4.
+
+5.
 Data Sharing
 Uploaded photos may be processed using external infrastructure to generate roast content. These services do not store or retain the data.
 We do not store, sell, or share any user data with third parties.
-5.
+
+7.
 Data Storage & Security
 Uploaded photos are not stored on our servers or retained by third-party services after processing.
 We implement reasonable security measures to protect data during upload and processing.
-6.
+
+9.
 Children's Privacy
 Roast Me is not intended for children under 13 years of age, and we do not knowingly collect any personal information from children.
 
-7.
+10.
 Changes to This Policy
 We may update this Privacy Policy as needed. Any changes will be posted here, with an updated effective date.
 
-8.
+11.
 Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at: fitagainai@gmail.com
